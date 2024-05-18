@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![alt text](image.png)
+
+### Name: Jayasree R
+### Register Number: 212223230087
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
